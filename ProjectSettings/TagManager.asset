@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - move if player on platform
+  - platform
+  - Spawn Point
+  - Door
+  - Boulder
+  - Boulder Trap
+  - Floor
+  - Health Pick Up
+  - Spike Trap
+  - Ladder
+  - Lava
+  - Key
+  - platform trigger
+  - Timed Platform
+  - Finish
+  - Moving Timed Platform
+  - Midway Platform
+  - Midway platform
+  - Giant Boulder
+  - floor
+  - destructible
+  - key podium
+  - Fader
+  - Bullet
+  - Ammo Pick Up
+  - Enemy
+  - Spawn
+  - Aggro
+  - Timed Platform 2
+  - Final Stage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

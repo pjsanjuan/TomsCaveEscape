@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 7e94467f914d14740ab3ae2128938263
+timeCreated: 1449055550
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cave_Wall
+    100002: //RootNode
+    100004: Rock_Arch_Piece
+    100006: Rock_Arch_Piece_001
+    100008: Rock_Arch_Piece_002
+    100010: Rock_Arch_Piece_003
+    100012: Rock_Arch_Piece_004
+    100014: Rock_Arch_Piece_005
+    100016: Rock_Arch_Piece_006
+    100018: Rock_Arch_Piece_007
+    100020: Rock_Arch_Piece_008
+    100022: Rock_Arch_Piece_009
+    100024: Rock_Arch_Piece_010
+    100026: Rock_Arch_Piece_011
+    100028: Rock_Arch_Piece_012
+    100030: Rock_Arch_Piece_013
+    100032: Rock_Arch_Piece_014
+    100034: Rock_Arch_Piece_016
+    100036: Rock_Arch_Piece_017
+    100038: Rock_Arch_Piece_018
+    100040: Subtract_Door
+    400000: Cave_Wall
+    400002: //RootNode
+    400004: Rock_Arch_Piece
+    400006: Rock_Arch_Piece_001
+    400008: Rock_Arch_Piece_002
+    400010: Rock_Arch_Piece_003
+    400012: Rock_Arch_Piece_004
+    400014: Rock_Arch_Piece_005
+    400016: Rock_Arch_Piece_006
+    400018: Rock_Arch_Piece_007
+    400020: Rock_Arch_Piece_008
+    400022: Rock_Arch_Piece_009
+    400024: Rock_Arch_Piece_010
+    400026: Rock_Arch_Piece_011
+    400028: Rock_Arch_Piece_012
+    400030: Rock_Arch_Piece_013
+    400032: Rock_Arch_Piece_014
+    400034: Rock_Arch_Piece_016
+    400036: Rock_Arch_Piece_017
+    400038: Rock_Arch_Piece_018
+    400040: Subtract_Door
+    2300000: Cave_Wall
+    2300002: Rock_Arch_Piece
+    2300004: Rock_Arch_Piece_001
+    2300006: Rock_Arch_Piece_002
+    2300008: Rock_Arch_Piece_003
+    2300010: Rock_Arch_Piece_004
+    2300012: Rock_Arch_Piece_005
+    2300014: Rock_Arch_Piece_006
+    2300016: Rock_Arch_Piece_007
+    2300018: Rock_Arch_Piece_008
+    2300020: Rock_Arch_Piece_009
+    2300022: Rock_Arch_Piece_010
+    2300024: Rock_Arch_Piece_011
+    2300026: Rock_Arch_Piece_012
+    2300028: Rock_Arch_Piece_013
+    2300030: Rock_Arch_Piece_014
+    2300032: Rock_Arch_Piece_016
+    2300034: Rock_Arch_Piece_017
+    2300036: Rock_Arch_Piece_018
+    2300038: Subtract_Door
+    3300000: Cave_Wall
+    3300002: Rock_Arch_Piece
+    3300004: Rock_Arch_Piece_001
+    3300006: Rock_Arch_Piece_002
+    3300008: Rock_Arch_Piece_003
+    3300010: Rock_Arch_Piece_004
+    3300012: Rock_Arch_Piece_005
+    3300014: Rock_Arch_Piece_006
+    3300016: Rock_Arch_Piece_007
+    3300018: Rock_Arch_Piece_008
+    3300020: Rock_Arch_Piece_009
+    3300022: Rock_Arch_Piece_010
+    3300024: Rock_Arch_Piece_011
+    3300026: Rock_Arch_Piece_012
+    3300028: Rock_Arch_Piece_013
+    3300030: Rock_Arch_Piece_014
+    3300032: Rock_Arch_Piece_016
+    3300034: Rock_Arch_Piece_017
+    3300036: Rock_Arch_Piece_018
+    3300038: Subtract_Door
+    4300000: Rock_Arch_Piece_018
+    4300002: Rock_Arch_Piece_017
+    4300004: Rock_Arch_Piece_016
+    4300006: Rock_Arch_Piece_014
+    4300008: Rock_Arch_Piece_013
+    4300010: Rock_Arch_Piece_012
+    4300012: Rock_Arch_Piece_011
+    4300014: Rock_Arch_Piece_010
+    4300016: Rock_Arch_Piece_009
+    4300018: Rock_Arch_Piece_008
+    4300020: Rock_Arch_Piece_007
+    4300022: Rock_Arch_Piece_006
+    4300024: Rock_Arch_Piece_005
+    4300026: Rock_Arch_Piece_004
+    4300028: Rock_Arch_Piece_003
+    4300030: Rock_Arch_Piece_002
+    4300032: Rock_Arch_Piece_001
+    4300034: Rock_Arch_Piece
+    4300036: Subtract_Door
+    4300038: Cave_Wall
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

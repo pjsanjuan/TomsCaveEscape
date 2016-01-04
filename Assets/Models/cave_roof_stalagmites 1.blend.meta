@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 2b8d50b93d0174415b55f062b7f95b12
+timeCreated: 1446521366
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cave_Roof
+    100002: //RootNode
+    100004: Stalagmite_1
+    100006: Stalagmite_2
+    100008: Stalagmite_3
+    100010: Stalagmite_4
+    100012: Stalagmite_5
+    100014: Stalagmite_6
+    100016: Stalagmite_7
+    100018: Stalagmite_8
+    100020: Stalagmite_9
+    400000: Cave_Roof
+    400002: //RootNode
+    400004: Stalagmite_1
+    400006: Stalagmite_2
+    400008: Stalagmite_3
+    400010: Stalagmite_4
+    400012: Stalagmite_5
+    400014: Stalagmite_6
+    400016: Stalagmite_7
+    400018: Stalagmite_8
+    400020: Stalagmite_9
+    2300000: Cave_Roof
+    2300002: Stalagmite_1
+    2300004: Stalagmite_2
+    2300006: Stalagmite_3
+    2300008: Stalagmite_4
+    2300010: Stalagmite_5
+    2300012: Stalagmite_6
+    2300014: Stalagmite_7
+    2300016: Stalagmite_8
+    2300018: Stalagmite_9
+    3300000: Cave_Roof
+    3300002: Stalagmite_1
+    3300004: Stalagmite_2
+    3300006: Stalagmite_3
+    3300008: Stalagmite_4
+    3300010: Stalagmite_5
+    3300012: Stalagmite_6
+    3300014: Stalagmite_7
+    3300016: Stalagmite_8
+    3300018: Stalagmite_9
+    4300000: Stalagmite_9
+    4300002: Stalagmite_8
+    4300004: Stalagmite_7
+    4300006: Stalagmite_6
+    4300008: Stalagmite_5
+    4300010: Stalagmite_4
+    4300012: Stalagmite_3
+    4300014: Stalagmite_2
+    4300016: Stalagmite_1
+    4300018: Cave_Roof
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

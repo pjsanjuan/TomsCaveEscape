@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: c9e49aaef7c1b3e4ba860d6995f501a6
+timeCreated: 1448510895
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Bone_004
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_009
+    100022: Bone_010
+    100024: Bone_011
+    100026: Bone_012
+    100028: Bone_013
+    100030: Bone_014
+    100032: Bone_015
+    100034: Cube
+    100036: Cube_001
+    100038: Cylinder
+    100040: Machete
+    100042: pistol
+    100044: Tom_Jumping
+    100046: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Bone_004
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_009
+    400022: Bone_010
+    400024: Bone_011
+    400026: Bone_012
+    400028: Bone_013
+    400030: Bone_014
+    400032: Bone_015
+    400034: Cube
+    400036: Cube_001
+    400038: Cylinder
+    400040: Machete
+    400042: pistol
+    400044: Tom_Jumping
+    400046: //RootNode
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cylinder
+    2300006: pistol
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cylinder
+    3300006: pistol
+    4300000: Tom_Jumping
+    4300002: pistol
+    4300004: Cylinder
+    4300006: Cube_001
+    4300008: Cube
+    7400000: Default Take
+    7400002: ArmatureAction_001
+    7400004: Idle - Standing
+    7400006: Walking - Knife
+    7400008: Jumping Knife
+    7400010: Death - Knife
+    7400012: Idle - Both
+    7400014: Walk - Both
+    7400016: Jump - Both
+    7400018: Death - Both
+    7400020: Raise Gun while Standing
+    7400022: Lower Gun while Standing
+    7400024: Melee while Standing
+    7400026: Raise Gun while Walking
+    7400028: Walk while Raised Gun
+    7400030: Lower Gun while Walking
+    7400032: Walk - Both
+    7400034: Melee while Walking
+    7400036: Gun in Raised Position while Standing
+    9500000: //RootNode
+    13700000: Tom_Jumping
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 849
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle - Standing
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walking - Knife
+      takeName: Default Take
+      firstFrame: 42
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jumping Knife
+      takeName: Default Take
+      firstFrame: 100
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death - Knife
+      takeName: Default Take
+      firstFrame: 140
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle - Both
+      takeName: Default Take
+      firstFrame: 200
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk - Both
+      takeName: Default Take
+      firstFrame: 242
+      lastFrame: 279
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump - Both
+      takeName: Default Take
+      firstFrame: 300
+      lastFrame: 341
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death - Both
+      takeName: Default Take
+      firstFrame: 350
+      lastFrame: 366
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Raise Gun while Standing
+      takeName: Default Take
+      firstFrame: 410
+      lastFrame: 430
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lower Gun while Standing
+      takeName: Default Take
+      firstFrame: 439
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Melee while Standing
+      takeName: Default Take
+      firstFrame: 480
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Raise Gun while Walking
+      takeName: Default Take
+      firstFrame: 550
+      lastFrame: 580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk while Raised Gun
+      takeName: Default Take
+      firstFrame: 580
+      lastFrame: 607
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lower Gun while Walking
+      takeName: Default Take
+      firstFrame: 732
+      lastFrame: 755
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Melee while Walking
+      takeName: Default Take
+      firstFrame: 810
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Gun in Raised Position while Standing
+      takeName: Default Take
+      firstFrame: 621
+      lastFrame: 633
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_003
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Bone_008/Bone_010
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_008/Bone_010/Bone_011/Bone_014
+        weight: 1
+      - path: Armature/Bone_009
+        weight: 1
+      - path: Armature/Bone_009/Bone_012
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_009/Bone_012/Bone_013/Bone_015
+        weight: 1
+      - path: Machete
+        weight: 1
+      - path: Machete/Cube
+        weight: 1
+      - path: Machete/Cube_001
+        weight: 1
+      - path: Machete/Cylinder
+        weight: 1
+      - path: pistol
+        weight: 1
+      - path: Tom_Jumping
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

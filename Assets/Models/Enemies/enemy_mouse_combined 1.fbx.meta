@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 6c62afbe9d179d14e9e22198b58d7dfb
+timeCreated: 1448127584
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: backlegL
+    100004: backlegR
+    100006: body
+    100008: Camera
+    100010: earL
+    100012: earL_end
+    100014: earR
+    100016: earR_end
+    100018: //RootNode
+    100020: footL1
+    100022: footL1_end
+    100024: footL2
+    100026: footL2_end
+    100028: footR1
+    100030: footR1_end
+    100032: footR2
+    100034: footR2_end
+    100036: frontlegL
+    100038: frontlegR
+    100040: Lamp
+    100042: Mouse
+    100044: tail1
+    100046: tail2
+    100048: tail3
+    100050: tail3_end
+    400000: Armature
+    400002: backlegL
+    400004: backlegR
+    400006: body
+    400008: Camera
+    400010: earL
+    400012: earL_end
+    400014: earR
+    400016: earR_end
+    400018: //RootNode
+    400020: footL1
+    400022: footL1_end
+    400024: footL2
+    400026: footL2_end
+    400028: footR1
+    400030: footR1_end
+    400032: footR2
+    400034: footR2_end
+    400036: frontlegL
+    400038: frontlegR
+    400040: Lamp
+    400042: Mouse
+    400044: tail1
+    400046: tail2
+    400048: tail3
+    400050: tail3_end
+    4300000: Mouse
+    7400000: Armature|ArmatureAction
+    7400002: Armature|LampAction
+    7400004: Lamp|LampAction
+    7400006: Standing
+    7400008: Jumping
+    7400010: Walking
+    7400012: Dying
+    9500000: //RootNode
+    13700000: Mouse
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|LampAction
+      takeName: Armature|LampAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp|LampAction
+      takeName: Lamp|LampAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Standing
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jumping
+      takeName: Armature|ArmatureAction
+      firstFrame: 36
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walking
+      takeName: Armature|ArmatureAction
+      firstFrame: 84
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dying
+      takeName: Armature|ArmatureAction
+      firstFrame: 148
+      lastFrame: 166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/backlegL
+        weight: 1
+      - path: Armature/backlegL/footL2
+        weight: 1
+      - path: Armature/backlegL/footL2/footL2_end
+        weight: 1
+      - path: Armature/backlegR
+        weight: 1
+      - path: Armature/backlegR/footR2
+        weight: 1
+      - path: Armature/backlegR/footR2/footR2_end
+        weight: 1
+      - path: Armature/body
+        weight: 1
+      - path: Armature/body/earL
+        weight: 1
+      - path: Armature/body/earL/earL_end
+        weight: 1
+      - path: Armature/body/earR
+        weight: 1
+      - path: Armature/body/earR/earR_end
+        weight: 1
+      - path: Armature/body/frontlegL
+        weight: 1
+      - path: Armature/body/frontlegL/footL1
+        weight: 1
+      - path: Armature/body/frontlegL/footL1/footL1_end
+        weight: 1
+      - path: Armature/body/frontlegR
+        weight: 1
+      - path: Armature/body/frontlegR/footR1
+        weight: 1
+      - path: Armature/body/frontlegR/footR1/footR1_end
+        weight: 1
+      - path: Armature/body/tail1
+        weight: 1
+      - path: Armature/body/tail1/tail2
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3
+        weight: 1
+      - path: Armature/body/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Mouse
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
